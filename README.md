@@ -9,6 +9,7 @@ this is the github page for my final project of Machine Learning, NYCU Academic 
 
 3. Model training:
     execute '109550110_Final_train.ipynb' or download pre-trained model '109550110_LR_model.joblib' on the github
+    or via this link: https://drive.google.com/file/d/1co8qtvfzecxFkX_Spcemd1HgAG29bC0O/view?usp=sharing
  
 4. Inference:
     execute '109550110_Final_inference.ipynb' to load the model and generate prediction result
